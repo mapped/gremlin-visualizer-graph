@@ -1,4 +1,6 @@
 # Gremlin-Visualizer
+❗Migrated to https://github.com/JanusGraph/janusgraph-visualizer
+
 This project is to visualize the graph network corresponding to a gremlin query.
 Original gremlin-visualizer can be found [here](https://github.com/prabushitha/gremlin-visualizer).
 
